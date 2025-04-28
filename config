@@ -1,0 +1,7 @@
+include ~/.config/sway/conf.d/keyboard_repeat.conf
+include ~/.config/sway/conf.d/input_touchpad.conf
+include ~/.config/sway/conf.d/keybindings_custom.conf
+include ~/.config/sway/conf.d/autostart.conf
+include ~/.config/sway/conf.d/appearance.conf
+include ~/.config/sway/conf.d/rules.conf
+include ~/.config/sway/conf.d/monitors.conf
